@@ -1,3 +1,5 @@
 ## Привет!👋
 
-Это Industrator Markeplace
+Это Industrator Marketplace.
+
+Hello there! This is Industrator Marketplace!
